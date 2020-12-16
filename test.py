@@ -17,7 +17,7 @@ class TestProgression(unittest.TestCase):
 
 
     def test_mul__(self):
-        self.assertEqual(self.test.__mul__(7), 33.25)
+        self.assertEqual(self.test.__mul__(7), 35.25)
         self.assertEqual(self.test.__mul__(3), 14.25)
 
 
